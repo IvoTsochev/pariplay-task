@@ -2,7 +2,7 @@
 
 ![](table.gif)
 
-<img src="./table.gif" width="100%" height="250"/>
+<img src="./table.gif" width="100%" height="auto"/>
 
 - clone the project to the local machine
 - run 'npm install'
