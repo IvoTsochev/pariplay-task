@@ -2,6 +2,8 @@
 
 ![](table.gif)
 
+<img src="./table.gif" width="250" height="250"/>
+
 - clone the project to the local machine
 - run 'npm install'
 - after installing all dependencies
