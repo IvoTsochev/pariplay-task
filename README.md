@@ -1,6 +1,6 @@
 ## How to use?
 
-![](table.gif)
+<!-- ![](table.gif) -->
 
 <img src="./table.gif" width="100%" height="auto"/>
 
