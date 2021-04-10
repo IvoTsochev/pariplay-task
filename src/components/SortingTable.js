@@ -21,6 +21,7 @@ const SortingTable = () => {
                 setTableData(tableData);
                 setIsLoaded(true);
             })
+            .catch(error => console.log(error))
     }, [])
 
     const columns = useMemo(() => COLUMNS, [tableData]);

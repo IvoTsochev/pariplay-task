@@ -1,3 +1,14 @@
+## How to use?
+
+![](table.gif)
+
+- clone the project to the local machine
+- run 'npm install'
+- after installing all dependencies
+- run 'npm start'
+
+!!! If there is an error about CORS, please install "Allow CORS: Access-Control-Allow-Origin" chrome extension on your browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
